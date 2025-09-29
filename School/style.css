@@ -1,0 +1,82 @@
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fffafc; 
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #ff69b4;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #ff85c1;
+}
+
+
+#missao {
+  color: #ff8da1;
+}
+
+#eventos {
+  color: #ff6fb7;
+  background-color: #fff0f5; 
+  padding: 8px;
+  border-radius: 8px;
+}
+
+ul {
+  margin-top: 10px;
+  list-style: none;
+}
+
+li {
+  margin-bottom: 8px;
+  padding: 5px;
+}
+
+.data {
+  font-weight: bold;
+  color: #ff1493;
+}
+
+.arlivre {
+  background-color: #ffe4f1;
+  padding: 5px;
+  border: 1px solid #ffc0cb;
+  border-radius: 6px;
+}
+
+.ginasio{
+  background-color: #fff0f5;
+  padding: 5px;
+  border: 1px solid #ffc0cb;
+  border-radius: 6px;
+}
+
+.sessao {
+  background-color: #fff0f5;
+  padding: 12px;
+  margin-top: 20px;
+  border: 1px solid #ffc0cb;
+  border-radius: 10px;
+}
+
+#contato {
+  color: #ff4f9d;
+  margin-bottom: 8px;
+}
